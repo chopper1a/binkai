@@ -1,4 +1,6 @@
 # binkai
+hi
+
 binkai is like plain text
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Augue interdum velit euismod in pellentesque massa. Morbi tristique senectus et netus et. Dignissim enim sit amet venenatis urna cursus eget. Mi sit amet mauris commodo quis imperdiet massa tincidunt nunc. Sed viverra tellus in hac habitasse platea dictumst. Lobortis feugiat vivamus at augue eget arcu. Pretium nibh ipsum consequat nisl vel pretium lectus quam id. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Arcu felis bibendum ut tristique et egestas quis ipsum suspendisse. Cursus in hac habitasse platea dictumst quisque. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Volutpat lacus laoreet non curabitur. Lacinia quis vel eros donec ac odio. Augue eget arcu dictum varius duis at.
